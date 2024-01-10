@@ -23,7 +23,7 @@ This repository contains the Exploratory Data Analysis (EDA) for the Heart Disea
 
 ## Insights from EDA
 
-    ## Heart Disease by Gender distribution(pie chart)
+   ## Heart Disease by Gender distribution(pie chart)
 The larger section, colored in blue, represents 84.8% and is labeled with “No”. This means that of the 4200+ responses in this survey, 84.8% had not experienced a heart disease episode.
 The smaller section, colored in orange, represents 15.2% and is labeled with “Yes”. 15.2% of the respondents had experienced a heart disease episode.
 In summary, the pie chart suggests that a majority of responses in the studied dataset had not experienced a heart disease episode, leading to a relatively small sample size of those who had experienced a heart disease episode.
