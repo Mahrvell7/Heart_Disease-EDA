@@ -29,10 +29,11 @@ The larger section, colored in blue, represents 84.8% and is labeled with “No�
 The smaller section, colored in orange, represents 15.2% and is labeled with “Yes”. 15.2% of the respondents had experienced a heart disease episode.
 In summary, the pie chart suggests that a majority of responses in the studied dataset had not experienced a heart disease episode, leading to a relatively small sample size of those who had experienced a heart disease episode.
 
-## occurance of heart disease by Gender
+## Occurrence of heart disease by Gender
 In summary, this EDA suggests that a significant number of both genders have not experienced a heart stroke, while a smaller proportion has. The number of females who haven’t experienced a heart stroke is slightly higher than males. In contrast, the number of males who have experienced a heart stroke is slightly higher than females. 
 
 ## Files
 - heart_disease.csv
 - cleaned heart_disease dataset.csv
-- heart_diease notebook
+- heart_disease notebook
+- heart disease pdf
