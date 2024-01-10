@@ -21,8 +21,7 @@ This repository contains the Exploratory Data Analysis (EDA) for the Heart Disea
   - Glucose
   - Heart Stroke 
 
-## Insights
-- Mention any interesting findings or patterns observed during the EDA process.
+## Insights from EDA
 
     ## Heart Disease by Gender distribution(pie chart)
 The larger section, colored in blue, represents 84.8% and is labeled with “No”. This means that of the 4200+ responses in this survey, 84.8% had not experienced a heart disease episode.
